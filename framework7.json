@@ -1,0 +1,27 @@
+{
+  "cwd": "D:\\2_Desarrollo 2020\\Framework7",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "kidsapp",
+  "framework": "svelte",
+  "template": "split-view",
+  "cssPreProcessor": false,
+  "bundler": "webpack",
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
